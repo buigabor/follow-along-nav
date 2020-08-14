@@ -12,4 +12,4 @@ HTML5, CSS, Vanilla JS
 
 # Website
 
-https://buigabor.github.io/mouse-shadow/
+https://buigabor.github.io/follow-along-nav/
